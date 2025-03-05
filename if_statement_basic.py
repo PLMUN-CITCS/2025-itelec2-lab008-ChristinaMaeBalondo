@@ -1,5 +1,5 @@
-def greet():
-    """Prints a greeting message."""  # Docstring
-    print("Hello, Python Students!")  # Function body
+temperature = 35  # Or any other number
 
-greet()
+if temperature > 30:
+
+        print("It's a hot day!")  # Indented 4 spaces
